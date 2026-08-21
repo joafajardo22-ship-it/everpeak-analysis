@@ -1,4 +1,4 @@
-# Retail Analysis – Sprint 7
+# Retail Analysis
 
 Proyecto 6 - Análisis de una empresa de telecomunicaciones
 
